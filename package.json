@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/fsystem.plainlit-ma9x4dmx",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 4SmgWpXxG1DY6wfZMAUb --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
